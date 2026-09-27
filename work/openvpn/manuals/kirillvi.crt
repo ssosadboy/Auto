@@ -1,0 +1,91 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            8a:6f:60:b9:33:88:70:04:e3:da:86:00:d0:3f:a9:01
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=RU, ST=Saint-Petersburg, L=Saint-Petersburg, O=Comita JSC, OU=IT, CN=CA/emailAddress=adminvpn2323@comita.ru
+        Validity
+            Not Before: Feb  5 15:40:51 2026 GMT
+            Not After : Feb  3 15:40:51 2036 GMT
+        Subject: C=RU, ST=Saint-Petersburg, O=Comita JSC, OU=IT, CN=kirillvi/emailAddress=kirillvi@comita.ru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d2:c8:28:3c:41:f4:68:be:e2:1c:fe:8f:29:46:
+                    a1:ab:41:7b:3e:a6:d1:de:f9:a6:21:06:fc:17:eb:
+                    cb:57:f9:ec:12:59:bb:46:a4:94:bb:45:57:64:80:
+                    84:7c:25:08:16:96:cd:cd:eb:e3:42:49:d5:c2:88:
+                    ce:f6:d6:56:97:9b:14:a0:e5:87:ff:ec:f6:e4:4a:
+                    92:f5:d7:9a:ca:f9:24:1d:a4:00:36:a5:f4:e0:d3:
+                    5a:26:77:dd:b3:9b:f2:a8:fd:c2:6b:50:23:53:7d:
+                    3b:38:c4:ee:38:ee:bb:16:f7:d4:5b:d3:bd:cd:0a:
+                    1e:f5:2f:ba:4e:69:f9:c4:fc:60:f1:7d:ee:3c:2b:
+                    fd:7e:7d:a5:ef:ba:69:b1:1a:3d:13:20:0f:a0:9c:
+                    11:96:b4:76:93:03:fa:0a:b4:f1:6a:ad:0d:c2:4a:
+                    54:af:e1:db:70:8e:a5:e0:ac:dd:67:5c:fd:6d:1a:
+                    80:65:91:0c:93:cb:6e:db:3c:64:46:d1:46:9f:06:
+                    fb:2c:79:06:0e:56:dd:e8:89:b0:65:d8:e3:4f:0b:
+                    b7:5b:f3:21:4f:f1:a3:a1:34:51:a0:0f:21:68:38:
+                    05:a5:0d:48:8e:fc:a4:cf:ab:c6:d3:ab:fe:85:6f:
+                    1f:23:c8:19:86:36:13:d3:4b:fc:15:c1:5b:29:38:
+                    b3:47
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                BA:45:10:31:6D:FE:0C:33:2A:9B:A6:2E:BB:22:DA:7D:A5:FD:FD:4B
+            X509v3 Authority Key Identifier: 
+                keyid:92:ED:A0:F9:7B:78:03:8D:B5:9E:CA:A8:26:B4:3E:42:A2:22:01:93
+                DirName:/C=RU/ST=Saint-Petersburg/L=Saint-Petersburg/O=Comita JSC/OU=IT/CN=CA/emailAddress=adminvpn2323@comita.ru
+                serial:5B:86:4D:EC:03:D3:00:00:2D:D8:6D:3F:2F:88:1E:11:E8:23:40:EB
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        2c:1d:a9:31:9a:39:f1:7e:73:8a:9e:b1:ea:03:c4:2f:18:3d:
+        a9:54:9c:27:a5:b3:ff:76:e7:7d:b0:87:bb:59:de:5f:d1:d3:
+        e6:55:7f:aa:63:db:7f:9f:cb:7b:41:d6:da:08:3e:a6:cb:11:
+        96:fb:35:81:c8:b1:5a:b4:05:ef:98:ac:e6:35:17:35:4c:98:
+        ee:d6:1b:81:06:fb:1b:c9:75:f1:b2:40:7f:2d:67:18:82:89:
+        6f:8a:a4:fd:17:57:ca:09:42:c8:33:2d:68:6c:e7:5f:05:50:
+        a0:a8:92:37:ee:ef:e2:a9:16:b8:d0:b1:f4:47:29:35:9d:7a:
+        9a:56:c0:67:fa:58:ab:1e:2b:a1:3d:26:56:9e:2d:43:ab:fb:
+        61:ca:73:88:54:51:e8:8c:c7:3d:2c:73:31:9c:08:62:e2:e8:
+        22:43:f2:02:39:69:6a:85:9c:40:ba:c7:ba:1e:f6:99:06:b2:
+        6b:02:de:d3:cd:cb:8f:bd:51:9b:58:52:d9:c6:5e:02:bc:4a:
+        69:d5:c1:c6:13:0e:d3:70:7d:ea:b3:a7:00:9a:09:6b:8a:ff:
+        bc:47:34:90:16:ae:f7:e2:eb:64:83:98:c0:f6:11:1d:61:8e:
+        58:4e:c5:0d:84:c0:0b:a8:38:a4:02:0f:b6:c0:f8:d6:4c:b4:
+        44:fd:70:19
+-----BEGIN CERTIFICATE-----
+MIIE4DCCA8igAwIBAgIRAIpvYLkziHAE49qGANA/qQEwDQYJKoZIhvcNAQELBQAw
+gZkxCzAJBgNVBAYTAlJVMRkwFwYDVQQIDBBTYWludC1QZXRlcnNidXJnMRkwFwYD
+VQQHDBBTYWludC1QZXRlcnNidXJnMRMwEQYDVQQKDApDb21pdGEgSlNDMQswCQYD
+VQQLDAJJVDELMAkGA1UEAwwCQ0ExJTAjBgkqhkiG9w0BCQEWFmFkbWludnBuMjMy
+M0Bjb21pdGEucnUwHhcNMjYwMjA1MTU0MDUxWhcNMzYwMjAzMTU0MDUxWjCBgDEL
+MAkGA1UEBhMCUlUxGTAXBgNVBAgMEFNhaW50LVBldGVyc2J1cmcxEzARBgNVBAoM
+CkNvbWl0YSBKU0MxCzAJBgNVBAsMAklUMREwDwYDVQQDDAhraXJpbGx2aTEhMB8G
+CSqGSIb3DQEJARYSa2lyaWxsdmlAY29taXRhLnJ1MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA0sgoPEH0aL7iHP6PKUahq0F7PqbR3vmmIQb8F+vLV/ns
+Elm7RqSUu0VXZICEfCUIFpbNzevjQknVwojO9tZWl5sUoOWH/+z25EqS9deayvkk
+HaQANqX04NNaJnfds5vyqP3Ca1AjU307OMTuOO67FvfUW9O9zQoe9S+6Tmn5xPxg
+8X3uPCv9fn2l77ppsRo9EyAPoJwRlrR2kwP6CrTxaq0NwkpUr+HbcI6l4KzdZ1z9
+bRqAZZEMk8tu2zxkRtFGnwb7LHkGDlbd6ImwZdjjTwu3W/MhT/GjoTRRoA8haDgF
+pQ1Ijvykz6vG06v+hW8fI8gZhjYT00v8FcFbKTizRwIDAQABo4IBODCCATQwCQYD
+VR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3BlblNTTCBHZW5lcmF0ZWQgQ2VydGlm
+aWNhdGUwHQYDVR0OBBYEFLpFEDFt/gwzKpumLrsi2n2l/f1LMIHZBgNVHSMEgdEw
+gc6AFJLtoPl7eAONtZ7KqCa0PkKiIgGToYGfpIGcMIGZMQswCQYDVQQGEwJSVTEZ
+MBcGA1UECAwQU2FpbnQtUGV0ZXJzYnVyZzEZMBcGA1UEBwwQU2FpbnQtUGV0ZXJz
+YnVyZzETMBEGA1UECgwKQ29taXRhIEpTQzELMAkGA1UECwwCSVQxCzAJBgNVBAMM
+AkNBMSUwIwYJKoZIhvcNAQkBFhZhZG1pbnZwbjIzMjNAY29taXRhLnJ1ghRbhk3s
+A9MAAC3YbT8viB4R6CNA6zANBgkqhkiG9w0BAQsFAAOCAQEALB2pMZo58X5zip6x
+6gPELxg9qVScJ6Wz/3bnfbCHu1neX9HT5lV/qmPbf5/Le0HW2gg+pssRlvs1gcix
+WrQF75is5jUXNUyY7tYbgQb7G8l18bJAfy1nGIKJb4qk/RdXyglCyDMtaGznXwVQ
+oKiSN+7v4qkWuNCx9EcpNZ16mlbAZ/pYqx4roT0mVp4tQ6v7YcpziFRR6IzHPSxz
+MZwIYuLoIkPyAjlpaoWcQLrHuh72mQayawLe083Lj71Rm1hS2cZeArxKadXBxhMO
+03B96rOnAJoJa4r/vEc0kBau9+LrZIOYwPYRHWGOWE7FDYTAC6g4pAIPtsD41ky0
+RP1wGQ==
+-----END CERTIFICATE-----
